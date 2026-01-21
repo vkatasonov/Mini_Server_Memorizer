@@ -4,7 +4,7 @@
 
 ## What's inside?
 
-This interactive learning tool provides multiple study modes to help you master the mini-serv implementation. The application includes several features designed to reinforce your understanding through different learning approaches:
+This interactive learning tool provides multiple study modes to help you master the mini-serv (EXAM Rank_06) implementation. The application includes several features designed to reinforce your understanding through different learning approaches:
 
 **Flashcards** offer a classic spaced-repetition learning experience where you can flip through cards containing key concepts, function signatures, and implementation details. Each card presents a question or concept on one side and the answer or explanation on the reverse, allowing you to test your recall before revealing the solution.
 
