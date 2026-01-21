@@ -35847,7 +35847,6 @@ function Home() {
 function App() {
   return /* @__PURE__ */ jsxRuntimeExports.jsx(BrowserRouter, { children: /* @__PURE__ */ jsxRuntimeExports.jsxs(Routes, { children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/", element: /* @__PURE__ */ jsxRuntimeExports.jsx(Home, {}) }),
-    /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/other", element: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "9", "trae-inspector-start-column": "38", "trae-inspector-end-line": "9", "trae-inspector-end-column": "105", "trae-inspector-file-path": "src/App.tsx", "trae-inspector-static-props": "%7B%22text%22%3A%22Other%20Page%20-%20Coming%20Soon%22%2C%22textStartLine%22%3A%229%22%2C%22textStartColumn%22%3A%2275%22%2C%22textEndLine%22%3A%229%22%2C%22textEndColumn%22%3A%2299%22%2C%22cwd%22%3A%22%2FUsers%2Fvkatasonov%2FDesktop%2Fquiz%22%7D", className: "text-center text-xl", children: "Other Page - Coming Soon" }) }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "*", element: /* @__PURE__ */ jsxRuntimeExports.jsx(Home, {}) })
   ] }) });
 }
